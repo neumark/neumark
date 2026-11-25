@@ -29,6 +29,8 @@ I build tools that run code in the browser 🌐. These days that means sandboxes
 ### 🛠️ My Projects
 
 <a href="https://immediately.run"><img alt="immediately.run" src="./projects/immediately-run.svg" width="400"/></a>
+<a href="https://github.com/immediately-run/baton"><img alt="baton" src="./projects/baton.svg" width="400"/></a>
+<a href="https://github.com/immediately-run/dibber"><img alt="dibber" src="./projects/dibber.svg" width="400"/></a>
 <a href="https://github.com/neumark/maxwell-equations"><img alt="maxwell-equations" src="./projects/maxwell.svg" width="400"/></a>
 <a href="https://github.com/neumark/helios-labyrinth"><img alt="helios-labyrinth" src="./projects/helios.svg" width="400"/></a>
 <a href="https://github.com/immediately-run/lodestar"><img alt="lodestar" src="./projects/lodestar.svg" width="400"/></a>
