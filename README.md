@@ -28,22 +28,7 @@ I build tools that run code in the browser 🌐. These days that means sandboxes
 
 ### 🛠️ My Projects
 
+<a href="https://github.com/immediately-run/dibber"><img alt="dibber" src="./projects/dibber.svg" width="400"/></a>
 <a href="https://immediately.run"><img alt="immediately.run" src="./projects/immediately-run.svg" width="400"/></a>
 <a href="https://github.com/immediately-run/baton"><img alt="baton" src="./projects/baton.svg" width="400"/></a>
-<a href="https://github.com/immediately-run/dibber"><img alt="dibber" src="./projects/dibber.svg" width="400"/></a>
-<a href="https://github.com/neumark/maxwell-equations"><img alt="maxwell-equations" src="./projects/maxwell.svg" width="400"/></a>
-<a href="https://github.com/neumark/helios-labyrinth"><img alt="helios-labyrinth" src="./projects/helios.svg" width="400"/></a>
-<a href="https://github.com/immediately-run/lodestar"><img alt="lodestar" src="./projects/lodestar.svg" width="400"/></a>
-<a href="https://github.com/neumark/tw5-firebase"><img alt="tw5-firebase" src="./projects/tw5-firebase.svg" width="400"/></a>
-<a href="https://github.com/neumark/firestore-cli"><img alt="firestore-cli" src="./projects/firestore-cli.svg" width="400"/></a>
-
-<details>
-<summary>More projects</summary>
-
-- [firestore-export-json](https://github.com/neumark/firestore-export-json): convert Firestore/Datastore LevelDB exports to JSON
-- [mini-iframe-rpc](https://github.com/neumark/mini-iframe-rpc): RPC across iframes over `postMessage`
-- [replay-fsm](https://github.com/neumark/replay-fsm): replayable finite state machines in ES6
-- [tw5-cljs](https://github.com/neumark/tw5-cljs): ClojureScript support for TiddlyWiki5
-- [rhyme-search-hun](https://github.com/neumark/rhyme-search-hun): a rhyme finder for Hungarian
-
-</details>
+<a href="https://github.com/neumark/mini-iframe-rpc"><img alt="mini-iframe-rpc" src="./projects/mini-iframe-rpc.svg" width="400"/></a>
